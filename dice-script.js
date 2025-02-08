@@ -13,6 +13,8 @@
 //from the array of dice images, and display that image.
 //evaluate both dices and display the winner
 
+//I am making this comment
+
 var previousDiceThrown1;
 var previousDiceThrown2;
 
